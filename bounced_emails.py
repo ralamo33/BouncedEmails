@@ -23,6 +23,3 @@ def lambda_handler(event, context):
 
 def extractEmailAddress(event):
     return "ralamo33@gmail.com";
-
-if __name__ == "__main__":
-    lambda_handler("h", "c")
